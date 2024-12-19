@@ -6,10 +6,10 @@
 
 ```json
 {
-   "name": "drawing-juan", -> samakan dengan foldernya
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+"name": "drawing-juan",  -> samakan dengan foldernya
+"private": true,
+"version": "0.0.0",
+"type": "module",
 }
 ```
 
@@ -17,11 +17,11 @@
 
 ```json
 {
-  "name": "drawing-juan", -> samakan juga dengan foldernya
-  "version": "0.0.0",
-  "lockfileVersion": 3,
-  "requires": true,
-  "packages":
+"name": "drawing-juan",  -> samakan juga dengan foldernya
+"version": "0.0.0",
+"lockfileVersion": 3,
+"requires": true,
+"packages":
 }
 ```
 
