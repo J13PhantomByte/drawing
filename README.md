@@ -2,8 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## UNTUK RUNNING WEBSITE MENGGUNAKAN PRINTAH
--  npm run dev
+> <span style="color: #yellow">Jika ingin coba websitenya gunakan perintah ini:</span>
+
+```json
+{
+  npm run dev
+}
+```
 
 Currently, two official plugins are available:
 
