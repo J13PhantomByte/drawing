@@ -31,6 +31,11 @@
 npm install
 ```
 
+# Screenshot
+Project screenshot here :
+
+![screenshot](https://github.com/J13PhantomByte/drawing/blob/juan/Screenshot%202024-12-19%20130356.png)
+
 <span style="color:purple; font-weight:bold">Dan tahap terakhir coba jalankan  :</span>
 
 ```bash
