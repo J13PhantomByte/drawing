@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-## #Step By #Step Tutorial :
+## Step By Step Tutorial :
 
 > <span style="color: #yellow">Pastikan File package.json sama seperti Folder :</span>
 
